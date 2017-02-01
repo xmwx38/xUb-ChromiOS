@@ -12,5 +12,6 @@ In XFCE..
 
 **Screenshots**
 
-https://github.com/xmwx38/xUb-Chrome/blob/master/xUb-Chrome-XFCE-Panel.png
-https://github.com/xmwx38/xUb-Chrome/blob/master/xUb-Chrome-XFCE-Panel-2.png
+XFCE Panels - https://github.com/xmwx38/xUb-Chrome/blob/master/xUb-Chrome-XFCE-Panel.png
+
+XFCE Panel launcher for Chrome Apps - https://github.com/xmwx38/xUb-Chrome/blob/master/xUb-Chrome-XFCE-Panel-2.png
