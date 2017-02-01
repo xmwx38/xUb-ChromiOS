@@ -1,9 +1,8 @@
-# xUb-Chrome
-xUbuntu w/ Chrome OS inspired theme.
+# xUbuntu XFCE Panel - Chrome OS-based Theme
 
-**XUbuntu/xfce desktop environment** Panel Backup (archive) - xUb-ChromiumOS-panel-configuration.tar.bz
+**XUbuntu/XFCE desktop environment** Panel Backup (archive) - xUb-ChromiumOS-panel-configuration.tar.bz
 
-**In xfce..**
+**In XFCE..**
 
   1. open Settings>Panel
   2. click "Backup and restore"
