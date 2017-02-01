@@ -2,7 +2,7 @@
 
 **XUbuntu/XFCE desktop environment** Panel Backup (archive) - xUb-ChromiumOS-panel-configuration.tar.bz
 
-**In XFCE..**
+In XFCE..
 
   1. open Settings>Panel
   2. click "Backup and restore"
